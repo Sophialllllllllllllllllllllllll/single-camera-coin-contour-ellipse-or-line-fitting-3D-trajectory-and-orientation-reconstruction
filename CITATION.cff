@@ -4,9 +4,9 @@ message: "If you use this project, please cite it as below."
 type: software
 
 authors:
-  - family-names: "Qiyao"
-    given-names: "Leng"
-  - family-names: "Yuxiao"
-    given-names: "Wu"
+  - family-names: "Leng"
+    given-names: "Qiyao"
+  - family-names: "Wu"
+    given-names: "Yuxiao"
 
 date-released: 2026-09-13
