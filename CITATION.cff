@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Single-Camera Coin Trajectory and Orientation Reconstruction"
+message: "If you use this project, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Qiyao"
+    given-names: "Leng"
+  - family-names: "Yuxiao"
+    given-names: "Wu"
+
+date-released: 2026-09-13
